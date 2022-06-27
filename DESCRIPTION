@@ -12,7 +12,7 @@ URL: https://www.bioconductor.org/packages/dupRadar, https://ssayols.github.io/d
 VignetteBuilder: knitr
 Suggests: BiocStyle, knitr, rmarkdown, AnnotationHub
 Depends: R (>= 3.2.0)
-Imports: Rsubread (>= 1.14.1)
+Imports: Rsubread (>= 1.14.1), KernSmooth
 LazyData: true
 License: GPL-3
 biocViews: Technology, Sequencing, RNASeq, QualityControl, ImmunoOncology
